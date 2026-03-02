@@ -22,3 +22,8 @@ I have established a secure, version-controlled technical workbench on a local U
 * **OS:** Ubuntu Linux (Oracle VirtualBox)
 * **VCS:** Git 2.43.0 
 * **IDE:** Visual Studio Code
+* ## References
+
+The Knowledge House. (2026). *Cybersecurity foundations intensive: Lab 1 infrastructure setup* [Lab instructions]. https://github.com/TKH-Cyber/Lab_Scripts
+
+American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). https://doi.org/10.1037/0000165-000
