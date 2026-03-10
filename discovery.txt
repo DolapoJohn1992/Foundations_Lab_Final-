@@ -1,4 +1,5 @@
---- FINAL DISCOVERY LOG ---
-1. System Log: /var/log/syslog
-2. Mission Path: ~/maze/level_42/flag.txt
-3. Mission Content: MISSION ACCOMPLISHED: +10 XP
+Log Path: /var/log/syslog
+Mission Path: /opt/alpha/mission.txt
+Mission Secret: MISSION SECURE: The system is yours. Do not fear the dark.
+Token Path: /var/tmp/.blackout/token.txt
+Token Secret: TOKEN: 9948-ABX-77
