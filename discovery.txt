@@ -1,0 +1,4 @@
+--- FINAL DISCOVERY LOG ---
+1. System Log: /var/log/syslog
+2. Mission Path: ~/maze/level_42/flag.txt
+3. Mission Content: MISSION ACCOMPLISHED: +10 XP
